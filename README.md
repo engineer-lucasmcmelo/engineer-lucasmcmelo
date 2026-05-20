@@ -23,7 +23,7 @@ I am a final-year Information Security student focused on understanding the full
 - **Networking:** Wireless network administration and infrastructure security.
 
 ### 🎓 Education & Certifications
-- **B.S. in Information Security** (Technologist) - [Your Institution Name] (Expected [Year])
+- **B.S. in Information Security** (Technologist) - Unifatecie 2026
 - **Cybersecurity Specialist** - FIAP
 - **Omada Certified Network Administrator (OCNA)** - Wireless
 - **Continuing Education:** Active learner on **TryHackMe** and **RangeForce**.
@@ -57,7 +57,7 @@ Estudante de Segurança da Informação no último ano, focado em compreender to
 - **Redes:** Administração de redes sem fio e segurança de infraestrutura.
 
 ### 🎓 Formação e Certificações
-- **Tecnólogo em Segurança da Informação** - [Nome da Instituição] (Conclusão em [Ano])
+- **Tecnólogo em Segurança da Informação** - Unifatecie 2026
 - **Cybersecurity Specialist** - FIAP
 - **Omada Certified Network Administrator (OCNA)** - Wireless
 - **Educação Continuada:** Aprendizado ativo no **TryHackMe** e **RangeForce**.
