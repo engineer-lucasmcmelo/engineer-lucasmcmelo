@@ -35,7 +35,7 @@ Degree in Information Security, focused on understanding the full spectrum of cy
 - **Soft Skills:** Professional English, technical documentation, and analytical thinking.
 
 ### 🚀 Hands-on Labs & Projects
-1.  **[CTF Write-ups]:** Methodology for solving TryHackMe and RangeForce challenges.
+1.  **[CTF Write-ups]:** Methodology for solving TryHackMe challenges.
 2.  **[Web Vulnerability Lab]:** Analysis of SQLi and XSS vulnerabilities in controlled environments.
 3.  **[Security Scripts]:** Small automations in Bash/Python for reconnaissance or log analysis.
 
@@ -69,7 +69,7 @@ Graduado em Segurança da Informação, focado em compreender todo o espectro de
 - **Soft Skills:** Inglês Profissional, documentação técnica e pensamento analítico.
 
 ### 🚀 Laboratórios e Projetos
-1.  **[Write-ups de CTF]:** Metodologia detalhada de desafios do TryHackMe e RangeForce.
+1.  **[Write-ups de CTF]:** Metodologia detalhada de desafios do TryHackMe.
 2.  **[Lab de Vulnerabilidades Web]:** Análise de falhas SQLi e XSS em ambientes controlados.
 3.  **[Security Scripts]:** Pequenas automações em Bash/Python para reconhecimento ou análise de logs.
 
@@ -78,7 +78,6 @@ Graduado em Segurança da Informação, focado em compreender todo o espectro de
 ### 📊 Profiles & Stats
 <p align="left">
 <a href=""><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-<a href=""><img src="https://img.shields.io/badge/RangeForce-63287A?style=for-the-badge" /></a>
 </p>
 
 ### 📫 Connect with me / Contato:
