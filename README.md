@@ -10,7 +10,7 @@
 <a name="english"></a>
 ## 🇺🇸 English
 
-### Cybersecurity Student | Red, Blue & Web Security Enthusiast | OCNA Wireless
+### Degree in Information Security | Red, Blue & Web Security Enthusiast | OCNA Wireless
 
 Degree in Information Security, focused on understanding the full spectrum of cyber threats—from exploitation to defense. I bridge the gap between networking infrastructure (OCNA Certified), web application security, and security operations.
 
