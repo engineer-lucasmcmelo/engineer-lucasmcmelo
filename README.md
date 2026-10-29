@@ -12,7 +12,7 @@
 
 ### Cybersecurity Student | Red, Blue & Web Security Enthusiast | OCNA Wireless
 
-I am a final-year Information Security student focused on understanding the full spectrum of cyber threats—from exploitation to defense. I bridge the gap between networking infrastructure (OCNA Certified), web application security, and security operations.
+Degree in Information Security, focused on understanding the full spectrum of cyber threats—from exploitation to defense. I bridge the gap between networking infrastructure (OCNA Certified), web application security, and security operations.
 
 ---
 
@@ -44,9 +44,9 @@ I am a final-year Information Security student focused on understanding the full
 <a name="portugues"></a>
 ## 🇧🇷 Português
 
-### Estudante de Segurança da Informação | Entusiasta Red, Blue & Web | OCNA Wireless
+### Graduado de Segurança da Informação | Entusiasta Red, Blue & Web | OCNA Wireless
 
-Estudante de Segurança da Informação no último ano, focado em compreender todo o espectro de ameaças cibernéticas. Unindo infraestrutura de rede (Certificado OCNA), segurança de aplicações web e operações de defesa.
+Graduado em Segurança da Informação, focado em compreender todo o espectro de ameaças cibernéticas. Unindo infraestrutura de rede (Certificado OCNA), segurança de aplicações web e operações de defesa.
 
 ---
 
@@ -82,8 +82,8 @@ Estudante de Segurança da Informação no último ano, focado em compreender to
 </p>
 
 ### 📫 Connect with me / Contato:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-LINKEDIN])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmcmelo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineer.lucasmcmelo@gmail.com)
 
 ---
 *“Security is not a product, but a process.” | “Segurança não é um produto, mas um processo.”*
